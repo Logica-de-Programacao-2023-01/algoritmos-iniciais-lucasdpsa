@@ -1,0 +1,7 @@
+Algoritmo de cálculo de fatorial: um algoritmo que calcula o fatorial de um número, ou seja, o produto de todos os números inteiros de 1 até aquele número
+
+1: leia x
+2: var resultado = 1
+3: para todo numero entre 2 e x faça
+4: resultado = resultado * numero
+5: escreva resultado
